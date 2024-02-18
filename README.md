@@ -14,4 +14,15 @@ most frequently purchased items, busiest stores, etc)
 4. Feature selection and engineering
 5. Modeling
 6. Dashboards and story telling
-7. ROI – make appropriate assumptions (support numbers used by using the web)
+7. ROI – make appropriate assumptions
+
+
+**Topic ---** Analyzing and predicting sales outcomes using multiple Machine Learning Models.
+**Client ---** Dillard's, an American department store chain.
+**Data ---** 120 million records, totaling over 10GB in size.
+**Business Question ---** Predict product returns based on product information and transaction records.
+**Objective ---** Optimize inventory management strategies to maximize return on investment.
+**Models ---** Linear Regression, Lasso Regression, Random Forest
+
+
+
